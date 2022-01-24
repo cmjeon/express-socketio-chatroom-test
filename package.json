@@ -1,0 +1,16 @@
+{
+  "name": "express-socketio-chatroom-test",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=UoKoPP91Qx0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "socket.io": "^4.4.1"
+  }
+}
